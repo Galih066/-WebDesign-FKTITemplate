@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css?family=DM+Serif+Display&display=swap');
+
+.change-font{
+	font-family: DM Serif Display;
+}
+.red-color{
+	background-color: red !important;
+}
+.tambahan{
+	text-decoration: none;
+}
